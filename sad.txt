@@ -1,2 +1,6 @@
 123
+<<<<<<< HEAD
 code add
+=======
+asdasd
+>>>>>>> b8efb1e001800fb7fac5a6c79fd3e6389b31043e
