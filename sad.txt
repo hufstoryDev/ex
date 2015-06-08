@@ -1,4 +1,14 @@
 123
+<<<<<<< HEAD
 asdasd
 
 junyoung222
+=======
+<<<<<<< HEAD
+code add
+=======
+asdasd
+>>>>>>> b8efb1e001800fb7fac5a6c79fd3e6389b31043e
+>>>>>>> dd4e915df006ef1a2a2458d97aeac8ec610508e1
+
+junyoug01
